@@ -1,4 +1,4 @@
-# How to install
+== How to install
 
 Add "new Tutei\SitemapBundle\TuteiSitemapBundle()" to ezpublish/EzPublishKernel.php in the registerBundles function.
 
@@ -9,7 +9,7 @@ tutei_sitemap:
     prefix:   /
     
     
-# How to configure
+== How to configure
 
 You can configure the parameters at:
 
