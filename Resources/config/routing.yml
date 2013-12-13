@@ -1,0 +1,3 @@
+tutei_sitemap_homepage:
+    pattern:  /sitemap.xml
+    defaults: { _controller: TuteiSitemapBundle:Default:index }

@@ -1,0 +1,12 @@
+parameters:
+    tutei_sitemap.classes:
+        - folder
+        - article
+        
+    tutei_sitemap.base_url:
+        http://test.com
+
+services:
+#    tutei_sitemap.example:
+#        class: %tutei_sitemap.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
